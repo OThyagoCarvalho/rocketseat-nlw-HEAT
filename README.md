@@ -9,5 +9,7 @@
 
 #### Project's final look
 
+<a href="https://othyagocarvalho.github.io/rocketseat-nlw-HEAT/"> GitHub Pages </a>
+
 ![image](https://user-images.githubusercontent.com/64051560/138574211-405c606d-d64d-4f39-acfd-88c6f9352007.png)
 
